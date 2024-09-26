@@ -317,6 +317,7 @@ defaults:
       type: pages
     values:
       layout: "single"
+      tagline: "JWST-FEAST: Red: F770W | Green: F560W | Blue: F200W"
       header:
         image: "/images/banner.png"  # Global header image path
   # _posts

@@ -119,11 +119,11 @@ author:
   avatar           : "/images/profile.jpg"
   bio              : "Hi! I am a PhD student in Astrophysics at Instituto Nacional de Astrofísica, Óptica y Electrónica"
   location         : "Puebla, Mexico"
-  email            : "avinash@inaoe.mx"
+  email            : #"avinash@inaoe.mx"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:avinash@inaoe.mx"
+       #url: "mailto:avinash@inaoe.mx"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

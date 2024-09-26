@@ -320,6 +320,7 @@ defaults:
       layout: single
       header:
         image: "/images/banner.png"
+        image_description: "A description of the image"
       author_profile: true
       read_time: true
       comments: # true

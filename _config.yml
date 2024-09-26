@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Avinash CK"
   avatar           : "/images/profile.jpg"
-  bio              : "Hi! I am a PhD student in Astrophysics at Instituto Nacional de Astrofísica, Óptica y Electrónica"
-  location         : "Puebla, Mexico"
+  bio              : #"Hi! I am a PhD student in Astrophysics at Instituto Nacional de Astrofísica, Óptica y Electrónica"
+  location         : "INAOE, Puebla, Mexico"
   email            : #"avinash@inaoe.mx"
   links:
     - label: "Email"

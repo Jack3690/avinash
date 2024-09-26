@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Home"
-author_profile = true
+author_profile: true
 permalink: /
 hidden: true
 header:

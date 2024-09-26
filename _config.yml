@@ -119,9 +119,9 @@ author:
   location         : "INAOE, Puebla, Mexico"
   email            : #"avinash@inaoe.mx"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       #url: "mailto:avinash@inaoe.mx"
+    - label: "orcid"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-7507-7227"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

@@ -311,16 +311,19 @@ compress_html:
 
 
 # Defaults
-defaults:
+defaults:        
   - scope:
       path: ""
       type: pages
+      title: 'JWST'
     values:
       layout: "single"
       title: "JWST"
-      caption: "<h1>NGC 628</h1><p>JWST-FEAST: Red: F770W | Green: F560W | Blue: F200W</p>"  # HTML for the overlay text
       header:
         image: "/images/banner.png"  # Global header image path
+        image_description: "A description of the header image"
+        excerpt : "<h1>NGC 628</h1><p>JWST-FEAST: Red: F770W | Green: F560W | Blue: F200W</p>"  # HTML for the overlay text
+        
   # _posts
   - scope:
       path: ""

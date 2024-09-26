@@ -118,7 +118,6 @@ author:
   bio              : "Hi! I am a PhD student in Astrophysics at Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico"
   location         : "Somewhere"
   email            : "avinash@inaoe.mx"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7507-7227"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

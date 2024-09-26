@@ -314,7 +314,7 @@ compress_html:
 defaults:
 - scope:
       path: ""
-      type: "pages"
+      type: home
     values:
       layout: "single"
       header:

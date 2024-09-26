@@ -312,15 +312,19 @@ compress_html:
 
 # Defaults
 defaults:
+- scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      header:
+        image: "/images/banner.png"  # Global header image path
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      header:
-        image: "/images/banner.png"
-        image_description: "A description of the image"
       author_profile: true
       read_time: true
       comments: # true

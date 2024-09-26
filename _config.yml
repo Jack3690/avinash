@@ -319,7 +319,7 @@ defaults:
     values:
       layout: single
       header:
-        teaser: "/images/banner.png"
+        image: "/images/banner.png"
       author_profile: true
       read_time: true
       comments: # true

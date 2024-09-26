@@ -315,10 +315,8 @@ defaults:
   - scope:
       path: ""
       type: pages
-      title: 'JWST'
     values:
       layout: "single"
-      title: "JWST"
       header:
         image: "/images/banner.png"  # Global header image path
         image_description: "A description of the header image"

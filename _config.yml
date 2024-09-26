@@ -319,10 +319,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        overlay_image: "banner.png"
-        overlay_filter: 0.5 
       read_time: true
       comments: # true
       share: true
       related: true
+header:
+  overlay_image: "/images/banner.png"
+  overlay_filter: 0.5 

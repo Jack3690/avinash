@@ -317,7 +317,8 @@ defaults:
       type: pages
     values:
       layout: "single"
-      excerpt: "JWST-FEAST: Red: F770W | Green: F560W | Blue: F200W"
+      title: "JWST"
+      caption: "<h1>NGC 628</h1><p>JWST-FEAST: Red: F770W | Green: F560W | Blue: F200W</p>"  # HTML for the overlay text
       header:
         image: "/images/banner.png"  # Global header image path
   # _posts

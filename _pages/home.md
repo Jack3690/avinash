@@ -1,10 +1,12 @@
 ---
 layout: splash
 title: "Home"
+author_profile = true
 permalink: /
 hidden: true
 header:
-      image: "/images/banner.png"  # Global header image path
+      overlay_color: "#5e616c"
+      overlay_image: "/images/banner.png"  # Global header image path
       image_description: "A description of the header image"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />

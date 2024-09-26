@@ -1,11 +1,11 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "INSIST-PISTA"
+    url: https://insist.readthedocs.io/en/latest/
+  - title: "Pydol"
+     url: https://pydol.readthedocs.io/en/latest/
+  - title: "Publications"
+     url: https://scholar.google.com/citations?user=ExgBsZYAAAAJ&hl=en
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
